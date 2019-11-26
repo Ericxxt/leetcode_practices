@@ -139,7 +139,7 @@ public class N_Queens51 {
 //    }
 
 
-    public static void main(String[] args) {
-        System.out.println(solveNQueens(5).toString());
-    }
+//    public static void main(String[] args) {
+//        System.out.println(solveNQueens(5).toString());
+//    }
 }
